@@ -1,0 +1,29 @@
+{
+  "name": "nicolas-cage",
+  "version": "1.0.0",
+  "authors": [
+    "Sam Beckham sam@beckham.io"
+  ],
+  "description": "Need a Nicolas Cage placeholder image? Look no further.",
+  "keywords": [
+    "web-component",
+    "web-components",
+    "polymer",
+    "seed"
+  ],
+  "main": "nicolas-cage.html",
+  "license": "http://polymer.github.io/LICENSE.txt",
+  "homepage": "https://github.com/samdbeckham/nicolas-cage/",
+  "ignore": [
+    "/.*",
+    "/test/",
+    "/demo/"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.0.0"
+  },
+  "devDependencies": {
+    "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
+    "web-component-tester": "*"
+  }
+}
